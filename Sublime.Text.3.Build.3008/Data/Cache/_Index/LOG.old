@@ -1,0 +1,6 @@
+2014/07/23-10:13:13.000179 14f0 Recovering log #3
+2014/07/23-10:13:13.000252 14f0 (ignoring error) D:\Sublime.Text.3.Build.3008\Data\Cache\_Index/000003.log: dropping 7563 bytes; Corruption: error in middle of record
+2014/07/23-10:13:13.000252 14f0 Level-0 table #5: started
+2014/07/23-10:13:13.000362 14f0 Level-0 table #5: 729252 bytes OK
+2014/07/23-10:13:13.000379 14f0 Delete type=0 #3
+2014/07/23-10:13:13.000380 14f0 Delete type=3 #2
